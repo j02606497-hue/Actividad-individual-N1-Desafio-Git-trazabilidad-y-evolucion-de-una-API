@@ -1,4 +1,4 @@
-# DESAFIO 1
+# Actividad individual N°1. Desafío Git: trazabilidad y evolución de una API
 
 
 ---
@@ -36,6 +36,8 @@ Carlos Alberto Gutierrez Rodas
 
 ---
 
+
+# DESAFIO 1
 
 ## Comandos utilizados
 
